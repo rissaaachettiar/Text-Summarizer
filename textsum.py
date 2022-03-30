@@ -109,7 +109,7 @@ def main():
     def format_function(option):
         return langs[option]
 
-    st.title("Rissa's Summarizer App")
+    st.title("Nine-Nine's Text Summarizer")
 
     activities = ["Summarize Via Text",
                   "Summarize Via URL", "Summarize Via Upload"]
